@@ -45,5 +45,4 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-/1.2.MoneyTransfer.iml
 /.idea/
